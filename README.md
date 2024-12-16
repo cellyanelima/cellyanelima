@@ -33,6 +33,12 @@ Here are some of my projects:
 2. **[Project Name 2](https://link-to-project-2):** Brief description (e.g., XXXXX).  
 3. **[Project Name 3](https://link-to-project-3):** Brief description (e.g.XXXXX).  
 
+---
 
+## 📄 Resume  
+
+You can find my detailed resume below, showcasing my skills, professional experience, and educational background:
+
+- **[Download My Resume (PDF)](https://xxxxxxx)**
 ---
 
