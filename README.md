@@ -39,6 +39,8 @@ Here are some of my projects:
 
 You can find my detailed resume below, showcasing my skills, professional experience, and educational background:
 
-- **[Download My Resume (PDF)](https://xxxxxxx)**
+- **[ResumeCellyaneFull.pdf](https://github.com/user-attachments/files/18155070/ResumeCellyaneFull.pdf)**
+  
 ---
+
 
