@@ -25,13 +25,13 @@ Additionally, I bring extensive experience in **financial management, administra
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
 Here are some of my projects:  
 
-1. **[Project Name 1](https://link-to-project-1):** Brief description (e.g., XXXXX).  
-2. **[Project Name 2](https://link-to-project-2):** Brief description (e.g., XXXXX).  
-3. **[Project Name 3](https://link-to-project-3):** Brief description (e.g.XXXXX).  
+1. **[PiggyPal](https://link-to-project-1](https://github.com/cellyanelima/final-project-course):** Final project.  
+2. **[My fullstack collection](https://github.com/cellyanelima/my-fullstack-collection):** Brief description (e.g., XXXXX).  
+
 
 ---
 
