@@ -45,6 +45,7 @@ You can find my detailed resume below, showcasing my skills, professional experi
 ---
 
 
+Thank you for taking the time to review my project!
 
 
 
