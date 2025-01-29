@@ -11,7 +11,8 @@ I have hands-on experience in collaborative projects, prioritizing continuous le
 ## 🛠️ Areas of Interest  
 
 - **Front-end Development:** React, Redux, Tailwind CSS  
-- **Back-end Development:** Node.js, Express, REST APIs  
+- **Back-end Development:** Node.js, Express, REST APIs
+- **Database:** SQLlite3
 - **Agile Methodologies:** Scrum, Kanban  
 - **Technical Curiosity:** Automated testing, authentication, and security  
 
@@ -42,5 +43,8 @@ You can find my detailed resume below, showcasing my skills, professional experi
 - **[Download My Resume (PDF)](https://github.com/user-attachments/files/18155070/ResumeCellyaneFull.pdf)**
   
 ---
+
+
+
 
 
