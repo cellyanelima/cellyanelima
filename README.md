@@ -29,8 +29,8 @@ Additionally, I bring extensive experience in **financial management, administra
 
 Here are some of my projects:  
 
-1. **[PiggyPal](https://link-to-project-1](https://github.com/cellyanelima/final-project-course):** Final project.  
-2. **[My fullstack collection](https://github.com/cellyanelima/my-fullstack-collection):** Brief description (e.g., XXXXX).  
+1. **[PiggyPal](https://github.com/cellyanelima/final-project-course):** Final project.  
+2. **[My fullstack collection](https://github.com/cellyanelima/my-fullstack-collection):** It is a fullstack application designed to manage a custom collection of travels. 
 
 
 ---
