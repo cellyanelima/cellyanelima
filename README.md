@@ -40,7 +40,7 @@ Here are some of my projects:
 
 You can find my detailed resume below, showcasing my skills, professional experience, and educational background:
 
-- **[Download My Resume (PDF)](https://github.com/cellyanelima/cellyanelima/blob/main/Resume_Cellyane.pdf))**
+- **[Download My Resume (PDF)](https://github.com/cellyanelima/cellyanelima/blob/main/Resume_Cellyane.pdf)**
 
   
 ---
