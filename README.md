@@ -10,7 +10,7 @@ I have hands-on experience in collaborative projects, prioritizing continuous le
 
 ## 🛠️ Areas of Interest  
 
-- **Front-end Development:** React, Redux, Tailwind CSS  
+- **Front-end Development:** React, Tailwind CSS  
 - **Back-end Development:** Node.js, Express, REST APIs
 - **Database:** SQLlite3
 - **Agile Methodologies:** Scrum, Kanban  
