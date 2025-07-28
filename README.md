@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me  
 
-I am a **web developer** transitioning careers, having recently completed a 22-week intensive training in **full-stack development** and human skills. The program covered everything from the fundamentals of **HTML, CSS, and JavaScript** to modern frameworks like **React** and **Redux**, API development with **Node.js**, authentication using **JWTs** and **OAuth2**, as well as agile methodologies such as **Scrum** and **Kanban**.
+I am a **web developer** transitioning careers, having recently completed a 22-week intensive training in **full-stack development** and human skills. The program covered everything from the fundamentals of **HTML, CSS, and JavaScript** to modern frameworks like **React** and **Redux**, API development with **Node.js**, authentication using **JWT** and **OAuth2**, as well as agile methodologies such as **Scrum** and **Kanban**.
 
 I have hands-on experience in collaborative projects, prioritizing continuous learning and effective communication to contribute to diverse and inclusive environments.
 
@@ -11,8 +11,8 @@ I have hands-on experience in collaborative projects, prioritizing continuous le
 ## 🛠️ Areas of Interest  
 
 - **Front-end Development:** React, Tailwind CSS  
-- **Back-end Development:** Node.js, Express, REST APIs
-- **Database:** SQLlite3
+- **Back-end Development:** Node.js, Express, REST APIs  
+- **Database:** SQLite3  
 - **Agile Methodologies:** Scrum, Kanban  
 - **Technical Curiosity:** Automated testing, authentication, and security  
 
@@ -31,8 +31,8 @@ Additionally, I bring extensive experience in **financial management, administra
 Here are some of my projects:  
 
 1. **[PiggyPal](https://github.com/cellyanelima/final-project-course):** Final project.  
-2. **[My fullstack collection](https://github.com/cellyanelima/my-fullstack-collection):** It is a fullstack application designed to manage a custom collection of travels. 
-
+2. **[My Fullstack Collection](https://github.com/cellyanelima/my-fullstack-collection):** A fullstack application designed to manage a custom collection of travels.  
+3. **[Spreadsheet Exercise](https://github.com/cellyanelima/spreadsheet-exercise):** A front-end engineering challenge that involves implementing a simplified spreadsheet application.
 
 ---
 
@@ -52,8 +52,4 @@ You can find my detailed resume below, showcasing my skills, professional experi
 
 ---
 
-
-Thank you for taking the time to review my project!
-
-
-
+Thank you for taking the time to review my profile!
