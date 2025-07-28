@@ -42,6 +42,7 @@ You can find my detailed resume below, showcasing my skills, professional experi
 
 - **[Download My Resume (PDF)](https://github.com/cellyanelima/cellyanelima/blob/main/Resume_Cellyane.pdf)**
 
+Wellington, NZ | 021 276-0042 | cellyane@gmail.com | linkedin.com/in/cellyane / NZ Visa Status: New Zealand Permanent Resident 
   
 ---
 
