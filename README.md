@@ -36,14 +36,20 @@ Here are some of my projects:
 
 ---
 
-## 📄 Resume  
+## 📄 Resume
 
 You can find my detailed resume below, showcasing my skills, professional experience, and educational background:
 
-- **[Download My Resume (PDF)](https://github.com/cellyanelima/cellyanelima/blob/main/Resume_Cellyane.pdf)**
+👉 **[Download My Resume (PDF)](https://cellyanelima.github.io/Resume%20-%20Cellyane.pdf)**
 
-Wellington, NZ | 021 276-0042 | cellyane@gmail.com | linkedin.com/in/cellyane / NZ Visa Status: New Zealand Permanent Resident 
-  
+---
+
+📍 Wellington, NZ  
+📞 021 276-0042  
+✉️ cellyane@gmail.com  
+🔗 [linkedin.com/in/cellyane](https://www.linkedin.com/in/cellyane)  
+🛂 NZ Visa Status: New Zealand Permanent Resident
+
 ---
 
 
