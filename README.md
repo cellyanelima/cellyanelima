@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me  
 
-I am a **web developer** transitioning careers, having recently completed a 22-week intensive training in **full-stack development** and human skills. The program covered everything from the fundamentals of **HTML, CSS, and JavaScript** to modern frameworks like **React** and **Redux**, API development with **Node.js**, authentication using **JWT** and **OAuth2**, as well as agile methodologies such as **Scrum** and **Kanban**.
+I am a **Software Engineer** transitioning careers, having recently completed a 22-week intensive training in **full-stack development** and human skills. The program covered everything from the fundamentals of **HTML, CSS, and JavaScript** to modern frameworks like **React** and **Redux**, API development with **Node.js**, authentication using **JWT** and **OAuth2**, as well as agile methodologies such as **Scrum** and **Kanban**.
 
 I have hands-on experience in collaborative projects, prioritizing continuous learning and effective communication to contribute to diverse and inclusive environments.
 
